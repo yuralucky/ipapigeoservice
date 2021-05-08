@@ -2,7 +2,7 @@
   "name": "yuraodessa/ipapigeoservice",
   "autoload": {
     "psr-4": {
-      "Hillel\\Ipapigeoservice\\": "./src"
+      "Hillel\\IpApiGeoService\\": "./src"
     }
   },
   "require": {

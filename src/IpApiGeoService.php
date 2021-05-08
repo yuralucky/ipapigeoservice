@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Hillel\Ipapigeoservice;
+namespace Hillel\IpApiGeoService;
 
-
+use Yuriy\Geo\Geoservice;
 use Illuminate\Support\Facades\Http;
 
 class IpApiGeoService implements GeoService
