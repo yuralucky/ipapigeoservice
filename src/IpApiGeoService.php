@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hillel\Geo;
+namespace Hillel\Ipapigeoservice;
 
 
 use Illuminate\Support\Facades\Http;
