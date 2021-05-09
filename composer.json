@@ -1,5 +1,5 @@
 {
-  "name":"ipapigeoservice",
+  "name":"yuraodessa/ipapigeoservice",
   "autoload": {
     "psr-4": {
       "Hillel\\IpApiGeoService\\": "./src"
@@ -15,5 +15,6 @@
       "type": "vcs",
       "url": "https://github.com/yuralucky/geoInterface"
     }
-  ]
+  ],
+  "description": "ipapigeoservice"
 }
