@@ -1,5 +1,5 @@
 {
-  "name": "yuraodessa/ipapigeoservice",
+  "name":"ipapigeoservice",
   "autoload": {
     "psr-4": {
       "Hillel\\IpApiGeoService\\": "./src"
